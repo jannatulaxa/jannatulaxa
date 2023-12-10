@@ -1,10 +1,7 @@
-![logo](https://github.com/jannatulaxa/jannatulaxa/blob/main/2.png)
+#JannatulAxsa 
+#MyStatus:
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-# My Skills :
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,firebase,tailwind,materialui,html,css,bootstrap,figma,git,github,vscode)](https://skillicons.dev)
-
-
-# Streak Status :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jannatulaxa&theme=tokyonight-duo&hide_border=true&border_radius=3&card_width=1000)](https://git.io/streak-stats)
