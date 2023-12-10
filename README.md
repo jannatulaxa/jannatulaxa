@@ -9,7 +9,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jannatulaxa&theme=tokyonight-duo&hide_border=true&border_radius=3&card_width=1000)](https://git.io/streak-stats)
 
-
+<div align="center">
+  
 #JannatulAxsa 
 #MyStatus:
 
@@ -21,3 +22,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jannatulaxa&theme=midnight_purple)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jannatulaxa&theme=midnight_purple&utcOffset=8)
 
+
+</div>
