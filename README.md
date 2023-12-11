@@ -6,7 +6,7 @@
 
 <h3 align="center">A Front-end Developer Knowledge with   React.js, JavaScript, Taillwind, MUI, HTML, CSS, MongoDB, Express.js, Node.js stack from Dhaka, Bangladesh</h3>
 
-
+<img align="right" width="400" alt="development" src="https://miro.medium.com/v2/resize:fit:1280/0*WVfimFBOp5OrEMze.gif" />
 
 - 🔭 My Top Work is [Employe-Management](https://management-employee.surge.sh/)
 
