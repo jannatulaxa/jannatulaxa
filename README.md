@@ -1,6 +1,36 @@
 ![logo](https://github.com/jannatulaxa/jannatulaxa/blob/main/2.png)
 
 
+
+
+
+
+- 🔭 My Top Work is [Employe-Management](https://management-employee.surge.sh/)
+
+- 👯 I’m looking to collaborate on [Hotel-Booking-Management](https://hotel-booking-web-c8f4f.web.app/)
+
+- 🤝 I’m looking for help with [Coffee-Palace](https://my-cafe-house.web.app/)
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/jannatulaxa)
+
+- 📫 How to reach me **jannatulaxajanifa586@gmail.com**
+
+- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1wDF6RVcWiX-hsqH3_7hW65DJ3F70Dvbr/view?usp=drive_link)
+
+
+
+
+
+
+
+
+# Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/jannatul-axsa-9bba441b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul-axsa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100078129848082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jannatul-axsa" height="30" width="40" /></a>
+</p>
+
+
 # My Skills :
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,firebase,tailwind,materialui,html,css,bootstrap,figma,git,github,vscode)](https://skillicons.dev)
 
