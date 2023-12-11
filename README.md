@@ -1,5 +1,7 @@
 ![logo](https://github.com/jannatulaxa/jannatulaxa/blob/main/2.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatulaxa&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadmolliek" /> </p>
+
 <h1 align="center">Hi 👋, This is Jannatul Axsa</h1>
 
 <h3 align="center">A Front-end Developer Knowledge with   React.js, JavaScript, Taillwind, MUI, HTML, CSS, MongoDB, Express.js, Node.js stack from Dhaka, Bangladesh</h3>
